@@ -10,5 +10,5 @@
 
 This is an example of a GitHub repository.
 
-Isn't this so awesome? WOOHOOO!
-So exciting!
+Isn't this so awesome? 
+
